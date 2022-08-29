@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MadeIndraSulistyawan
 - 👀 I’m interested in coding since i'm 15 
 - 🌱 I’m currently learning basic coding like html css javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram and facebook
 
 
 
